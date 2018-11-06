@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": { 
+    "SearchServiceName": "",
+    "SearchServiceAdminApiKey": "",
+    "SearchServiceQueryApiKey": ""
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  }
+}
