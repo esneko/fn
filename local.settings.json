@@ -1,6 +1,9 @@
 {
   "IsEncrypted": false,
-  "Values": { 
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "SearchServiceName": "",
     "SearchServiceAdminApiKey": "",
     "SearchServiceQueryApiKey": ""
